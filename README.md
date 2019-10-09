@@ -1,2 +1,2 @@
 # Test
-Dados de 
+repositório de dados aleatórios para teste da plataforma.
