@@ -38,3 +38,4 @@ mean(x)
 }
 
 #novos textos
+#mudei o código no site.
